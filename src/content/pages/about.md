@@ -16,3 +16,5 @@ Now offering a respectable collection, self-taught Ryan has become a particular 
 What do we look at when we see an excellent photograph? We would just love to be able to be up there, the moment that photo was taken. To be able to see the world from any point of view!
 
 Ariel video/photography is our passion and the goal is to turn your dreams into a reality!
+
+[Click here to get in touch with us!](/about)
