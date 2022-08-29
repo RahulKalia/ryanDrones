@@ -3,7 +3,14 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
+Ryan Charles Deegan
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Mobile: 07500925488
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Email: [rcdroness@hotmail.com](mailto:rcdroness@hotmail.com)
+
+YouTube: [RCDrones](https://www.youtube.com/user/deegans22)
+
+Instagram: [_RC​\_Drones\_](https://www.instagram.com/_rc_drones_/)
+
+TikTok:[ _RC​\_Drones\_](https://www.tiktok.com/@_rc_drones_)
