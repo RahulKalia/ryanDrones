@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Ryan Charles Deegan
 tagline: Drone Operator
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/ryandeeganprofile.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
