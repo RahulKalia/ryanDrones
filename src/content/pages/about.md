@@ -11,7 +11,7 @@ A factory engineer by profession, Ryan has used the benefits of working shifts t
 
 Now offering a respectable collection, self-taught Ryan has become a particular specialist in capturing the stunning landscapes that the UK has to offer. 
 
-![Drone Shot](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Berkshire Drone Shot")
+![Drone Shot](/assets/whatsapp-image-2022-08-30-at-4.51.04-am-1-.jpeg "Berkshire Drone Shot")
 
 What do we look at when we see an excellent photograph? We would just love to be able to be up there, the moment that photo was taken. To be able to see the world from any point of view!
 
