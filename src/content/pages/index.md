@@ -10,4 +10,6 @@ cta:
 ---
 Ryan is a Berkshire based Drone Pilot. 
 
-I just want to be there, in the moment, to capture the memory that will last a lifetime.
+I want to be there in the moment, to capture the memory that will last a lifetime.
+
+T﻿he Sky is the limit !
