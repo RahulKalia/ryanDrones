@@ -2,8 +2,8 @@
 template: index-page
 slug: /
 title: Ryan Charles Deegan
-tagline: Drone Operator
-featuredImage: /assets/cliff-edge.jpeg
+tagline: Certified Drone Operator
+featuredImage: /assets/whatsapp-image-2022-08-30-at-4.51.06-am.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
