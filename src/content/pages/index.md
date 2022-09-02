@@ -8,8 +8,6 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Ryan is a Berkshire based Drone Pilot. 
-
 I want to be there in the moment, to capture the memory that will last a lifetime.
 
 T﻿he Sky is the limit !
