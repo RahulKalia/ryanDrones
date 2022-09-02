@@ -12,3 +12,5 @@ T﻿his was the day me and my girlfriend took a trip down to Littlehampton Beach
 I﻿ was not a massive fan of the area to capture pictures or any footage to create a compilation video. Although I had a back up plan to go to Arundel Castle on the way home. 
 
 What a sight to see up from a birds eye view, it made the sunburn almost worth it for what I had captured, the sun was clearly shining down without a cloud in the sky. While living next to Windsor Castle myself, but not being physically allowed to fly it anywhere near, it was great to be able to take these shots of such a beautiful fortress.
+
+![]()
