@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Arundel castle, Sussex
-slug: /arundel-castle
+slug: /arundel-castle-sussex
 date: 2022-06-13 18:00
 description: Arundel Castle, home of the Duke of Norfolk, reflecting nearly
   1,000 years of history and commanding the surrounding landscape with
