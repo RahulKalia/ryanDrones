@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Chinnor Quarry, Oxfordshire
-slug: /chinnor-quarry
+slug: /chinnor-quarry-limestone
 date: 2022-07-25 17:00
 description: This quarry is a Site of Special Scientific Interest and well known
   by geologists for its phenomenal history. Packed with fossils, some of the
