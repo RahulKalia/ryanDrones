@@ -12,4 +12,4 @@ I want to be there in the moment, to capture the memory that will last a lifetim
 
 T﻿he Sky is the limit !
 
-C﻿heck out the Youtube link below for some 4K cinematic footage related to my portfolio.
+C﻿lick the Youtube Logo below for some 4K cinematic !
