@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Ryan Charles Deegan
 tagline: Certified Drone Operator
-featuredImage: /assets/me2.jpg
+featuredImage: /assets/logo.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
