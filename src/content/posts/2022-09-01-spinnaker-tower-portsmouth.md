@@ -2,7 +2,7 @@
 template: blog-post
 title: Spinnaker Tower, Portsmouth
 slug: /spinnakertower-portsmouth
-date: 2022-10-05 17:59
+date: 2022-09-12 15:00
 description: The Spinnaker Tower soars 170 metres above Portsmouth Harbour,
   offering 350 degrees panoramic views of Portsmouth Harbour, the South Coast
   and the Isle of White.
