@@ -2,7 +2,7 @@
 template: blog-post
 title: Ouse Valley Viaduct, West Sussex
 slug: /ousevalley-viaduct-sussex
-date: 2022-07-14 21:00
+date: 2022-07-11 21:00
 description: As an engineer, I can really appreciate the beauty of a bridge such
   as Ouse Valley Viaduct.
 featuredImage: /assets/2ec0e5a3-ef2c-4e3a-8caa-b2ae1768a427.jpeg
