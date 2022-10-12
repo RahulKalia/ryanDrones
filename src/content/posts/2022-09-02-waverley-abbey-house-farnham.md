@@ -2,7 +2,7 @@
 template: blog-post
 title: Waverley Abbey House, Farnham
 slug: /waverleyabbey-farnham
-date: 2022-09-09 14:00
+date: 2022-08-30 14:00
 description: >-
   Waverley Abbey was built from the vision of Cistercian monks in 1128.
 
